@@ -1,2 +1,1 @@
-# adidjo_cameroun
-the best of line
+# adidjo-cameroun
